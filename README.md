@@ -1,4 +1,4 @@
-# Kanzi: Alexa Integration With Kodi
+# Kanzi: Alexa Integration With Kodi IT Version
 
 [![Build Status](https://travis-ci.org/m0ngr31/kanzi.svg?branch=master)](https://travis-ci.org/m0ngr31/kanzi)
 
