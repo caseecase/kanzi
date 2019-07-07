@@ -233,13 +233,13 @@ newly_added_movies_genre: "Newly added {{ genre }} movies"
 
 last_unwatched: "Playing the next unwatched episode of the last show watched"
 
-update_audio: "Updating audio library"
+update_audio: "Aggiornamento libreria audio"
 
-update_video: "Updating video library"
+update_video: "Aggiornamento libreria video"
 
-clean_audio: "Cleaning audio library"
+clean_audio: "Pulizia libreria audio"
 
-clean_video: "Cleaning video library"
+clean_video: "Pulizia libreria video"
 
 ejecting_media: "Ejecting media"
 
