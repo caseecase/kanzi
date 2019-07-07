@@ -170,7 +170,7 @@ volume_set: "Volume set to {{ num }}"
 
 help: "You can ask me whether there are any new shows, to play a movie, t. v. show, or artist, control playback of media, and more. For example, {{ example }}. I've sent more examples to your Alexa app."
 
-help_short: "What would you like to do?  Try something like, {{ example }}."
+help_short: "Cosa ti piacerebbe chiedere? Prova con qualcosa tipo, {{ example }}."
 
 help_text: "Kanzi allows you to fully control one or more Kodi installations with your voice.  Here are some examples of things you can say:\n
 \xa0\n
